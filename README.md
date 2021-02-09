@@ -2,7 +2,7 @@
 
 ### Playing with Vuex state with axios
 ```
-API:https://haruki-murakami-quotes.herokuapp.com/api/v1/quotes
+BE:https://haruki-murakami-quotes.herokuapp.com/api/v1/quotes
 ```
 
 # Project setup
